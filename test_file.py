@@ -2,7 +2,7 @@ import asyncio
 import edge_tts
 import os
 
-TEXT = "Hello! I'm a bot written from Python. I don't like GitHub"
+TEXT = "Hello! I'm a bot written from Python. I love GitHub"
 VOICE = "en-SG-LunaNeural"
 OUTPUT_FILE = "speech.mp3"
 
