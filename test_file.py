@@ -3,7 +3,7 @@ import edge_tts
 import os
 
 TEXT = "Hello! I'm a bot written from Python. I love GitHub ❤️"
-VOICE = "en-SG-LunaNeural"
+VOICE = "en-SG-LunaNeural" # This is a test voice before making main.py
 OUTPUT_FILE = "speech.mp3"
 
 
